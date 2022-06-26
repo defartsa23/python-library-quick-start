@@ -5,7 +5,7 @@ This is a minimal template for uploading your python packages to pypi.org.
 * First clone this project.
 ```bash
 # Clone this repository
-https://github.com/defartsa23/python-library-quick-start.git
+git clone https://github.com/defartsa23/python-library-quick-start.git
 # Go into the repository
 cd python-library-quick-start
 ```
